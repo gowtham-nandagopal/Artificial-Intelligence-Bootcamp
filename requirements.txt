@@ -7,3 +7,4 @@ langchain-text-splitters
 langchain-classic
 langchain-experimental
 sentence-transformers
+langchain-google-genai
